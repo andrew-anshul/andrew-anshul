@@ -11,13 +11,13 @@
 ## 🛠 Skills
 HTML, CSS, Javascript, Java, C, C++..
 
-🧠 I'm currently learning DSA...
+- 🧠 I'm currently learning DSA...
 
-💬 Ask me about DSA...
+- 💬 Ask me about DSA...
 
-📫 How to reach me anshulg0110@gmail.com...
+- 📫 How to reach me andrewanshul798@gmail.com
 
-⚡️ Fun fact..."I love solving problems—if I can’t figure something out, it’s a great chance to learn and grow!"
+- ⚡️ Fun fact..."I love solving problems—if I can’t figure something out, it’s a great chance to learn and grow!"
 
 <!---
 andrew-anshul/andrew-anshul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
