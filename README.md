@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrew-anshul
 - 👀 I’m a programmer
-- 🌱 I’m currently DSA.
+- 🌱 I am currently pursuing a Bachelor of Computer Applications at LPU
 - 💞️ Sprinkling smiles everywhere I go 😄
 - 😄 Pronouns:he/him
 
