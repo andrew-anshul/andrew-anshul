@@ -22,7 +22,7 @@ HTML, CSS, Javascript, Java, C, C++..
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrew-anshul&show_icons=true&locale=en" alt="andrew-anshul" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-anshul&show_icons=true&locale=en&layout=compact" alt="andrew-anshul" /></p>
 
 <!---
 andrew-anshul/andrew-anshul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
