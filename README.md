@@ -78,9 +78,9 @@ LANGUAGES AND TOOLS
   src="https://i.giphy.com/5eLDrEaRGHegx2FeF2.webp" />
 <br /> 
   
-  
+  <p align=""> 
  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,next,expressjs,nodejs,mongodb,git,github,vscode)](#)
-
+</p>
 
 <!-- deivder -->
 <br /> <br />
