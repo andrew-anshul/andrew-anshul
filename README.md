@@ -11,6 +11,7 @@
      INTRODUCTION
     <img  src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrew-anshul&label=Profile%20views&color=0e75b6&style=flat" alt="andrew-anshul" /> </p>
+</h3>
 
 <img align="right" src="https://i.giphy.com/zhYSVCirREeIZtONCI.webp" width = "50%"/>
 
@@ -77,7 +78,8 @@ LANGUAGES AND TOOLS
   src="https://i.giphy.com/5eLDrEaRGHegx2FeF2.webp" />
 <br /> 
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,next,expressjs,nodejs,mongodb,git,github,vscode)](#)
+  
+ [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,next,expressjs,nodejs,mongodb,git,github,vscode)](#)
 
 
 <!-- deivder -->
@@ -120,6 +122,15 @@ STREAKS
 <img align="right" width=200px height=250px alt="side_sticker"
   src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <br /> 
+  
+<p align="">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-anshul&">
+</p>
+
+<!-- deivder -->
+<br /> <br />
+<img align="center" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
+<br />
   
 
 <!--bottom animation-->
