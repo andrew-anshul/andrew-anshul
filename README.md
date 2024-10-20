@@ -56,7 +56,7 @@ CONNECT WITH ME THROUGH
 <br />
 
 <p align="center">
-<a href="https://twitter.com/andrew-anshul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lakshya_khare" height="30" width="40" /></a>
+<a href="https://twitter.com/andrew_anshul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lakshya_khare" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/andrew-anshul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshyakhare" height="30" width="40" /></a>
 <a href="https://instagram.com/anshulgupta__ig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshya_khare" height="30" width="40" /></a>
 </p>
@@ -147,7 +147,16 @@ STREAKS
 <br /> <br />
 <img align="center" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
 <br />
-  
+
+  <!--trophy corner-->
+<h3 align="center">
+    <br />
+    <img  src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px">
+TROPHIES
+<img  src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px">
+</h3>
+<br />
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrew-anshul" alt="andrew-anshul" /></a> </p>
 
 <!--bottom animation-->
 <p align="center">
